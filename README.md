@@ -17,6 +17,7 @@ In this project, we extended the functionality of the dApp by adding a name and 
 1. My ERC-721 Token Name: PTKN Token
 2. My ERC-721 Token Symbol: PTKN
 3. Version of the Truffle and OpenZeppelin used: Truffle v5.5.17 (core: 5.5.17) | OpenZeppelin version 2.3
+4. My “Token Address” on the Rinkeby Network: 0x212786b45c1A24eD18932C8CE950c5180BBE1798
 
 ### Dependencies
 
